@@ -9,3 +9,5 @@ Using python file in the "Real_time_model" folder to run
 ```bash
 python WC.py
 ```
+## Testing
+![ezgif-4-7bb35c23cd](https://user-images.githubusercontent.com/127477315/225806876-5ab6f9c1-17ea-490f-9231-483247022722.gif)
